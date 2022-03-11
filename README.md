@@ -1,4 +1,4 @@
-###HI 👋 My name is Ilya!
+HI 👋 My name is Ilya!
 
   About me
   - I am 28 year old programmer from Obninsk
