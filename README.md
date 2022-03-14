@@ -30,10 +30,11 @@ Projects:
 8. [Site parsing. JDBC, Quartz, Jsoup](https://github.com/shabelnikilya/job4j_grabber)
 
 Lessons of:
-1. [Generics, Collection API, I/O, NIO, SQL & JDVC, GC, OOD.](https://github.com/shabelnikilya/jobj4_design)
-2. [Multithreading.](https://github.com/shabelnikilya/job4j_threads)
-3. [Spring.](https://github.com/shabelnikilya/job4j_spring)
-4. [Hibernate.](https://github.com/shabelnikilya/job4j_hibernate)
+1. [Passport data management. Spring boot + Kafka.](https://github.com/shabelnikilya/job4j_passport)
+2. [Spring.](https://github.com/shabelnikilya/job4j_spring)
+3. [Hibernate.](https://github.com/shabelnikilya/job4j_hibernate)
+4. [Multithreading.](https://github.com/shabelnikilya/job4j_threads)
+5. [Generics, Collection API, I/O, NIO, SQL & JDVC, GC, OOD.](https://github.com/shabelnikilya/jobj4_design)
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shabelnikilya&style=centerme&layout=compact)](https://github.com/shabelnikilya/github-readme-stats)
 <br>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shabelnikilya&show_icons=true&theme=tokyonight)
