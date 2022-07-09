@@ -1,7 +1,7 @@
 HI 👋 My name is Ilya!
 
   About me
-  - I am 28 year old programmer from Obninsk
+  - I am 29 year old programmer from Obninsk
   - I studied at the course - [job4j](https://job4j.ru)
   - I work as a java developer
   - My Java expirience is > 1 year
