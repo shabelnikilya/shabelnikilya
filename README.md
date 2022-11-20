@@ -37,7 +37,7 @@ Lessons of:
 2. [Spring.](https://github.com/shabelnikilya/job4j_spring)
 3. [Hibernate.](https://github.com/shabelnikilya/job4j_hibernate)
 4. [Multithreading.](https://github.com/shabelnikilya/job4j_threads)
-5. [Generics, Collection API, I/O, NIO, SQL & JDVC, GC, OOD.](https://github.com/shabelnikilya/jobj4_design)
+5. [Generics, Collection API, I/O, NIO, SQL & JDBC, GC, OOD.](https://github.com/shabelnikilya/jobj4_design)
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shabelnikilya&style=centerme&layout=compact)](https://github.com/shabelnikilya/github-readme-stats)
 <br>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shabelnikilya&show_icons=true&theme=tokyonight)
