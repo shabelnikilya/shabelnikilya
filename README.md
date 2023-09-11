@@ -1,7 +1,7 @@
 HI 👋 My name is Ilya!
 
   About me
-  - I am 30 year old programmer from Novi-Sad
+  - I am 30 year old programmer
   - The experience of a back-end programmer is more than 2 years
 
 -------
